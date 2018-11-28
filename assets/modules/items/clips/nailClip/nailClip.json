@@ -1,0 +1,8 @@
+{
+    "projectile": "nail",
+    "size": 24,
+    "price": 70,
+    "displayName": "矿钉夹",
+    "plural": "钉子",
+    "iconName": "nailClip"
+}

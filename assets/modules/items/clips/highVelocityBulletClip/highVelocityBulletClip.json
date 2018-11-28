@@ -1,0 +1,8 @@
+{
+    "projectile": "highVelocityBullet",
+    "size": 30,
+    "price": 30,
+    "displayName": "高速子弹夹",
+    "plural": "子弹",
+    "iconName": "highVelocityBulletClip"
+}

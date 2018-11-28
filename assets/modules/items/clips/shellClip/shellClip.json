@@ -1,0 +1,9 @@
+{
+    "projectile": "shellBullet",
+    "projectilesPerShot": 5,
+    "size": 12,
+    "price": 40,
+    "displayName": "炮弹夹",
+    "plural": "炮弹",
+    "iconName": "shellClip"
+}

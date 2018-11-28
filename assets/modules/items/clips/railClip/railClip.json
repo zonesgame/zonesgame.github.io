@@ -1,0 +1,8 @@
+{
+    "projectile": "rail",
+    "size": 5,
+    "price": 70,
+    "displayName": "电磁炮子弹夹",
+    "plural": "电磁子弹",
+    "iconName": "railClip"
+}

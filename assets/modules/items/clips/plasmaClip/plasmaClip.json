@@ -1,0 +1,8 @@
+{
+    "projectile": "plasma",
+    "size": 30,
+    "price": 20,
+    "iconName": "plasmaClip",
+    "displayName": "等离子电池",
+    "plural": "电子"
+}

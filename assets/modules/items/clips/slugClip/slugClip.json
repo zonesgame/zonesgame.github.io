@@ -1,0 +1,8 @@
+{
+    "projectile": "slug",
+    "size": 10,
+    "price": 60,
+    "displayName": "大炮子弹夹",
+    "plural": "穿甲弹",
+    "iconName": "slugClip"
+}

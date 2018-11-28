@@ -1,0 +1,8 @@
+{
+    "projectile": "rocket",
+    "size": 8,
+    "price": 70,
+    "displayName": "火箭弹夹",
+    "plural": "火箭弹",
+    "iconName": "rocketClip"
+}

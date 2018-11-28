@@ -1,0 +1,8 @@
+{
+    "projectile": "bullet",
+    "size": 60,
+    "price": 20,
+    "displayName": "子弹夹",
+    "plural": "子弹",
+    "iconName": "bulletClip"
+}

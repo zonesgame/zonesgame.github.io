@@ -1,0 +1,8 @@
+{
+    "projectile": "bomb",
+    "size": 10,
+    "price": 30,
+    "displayName": "炸弹夹",
+    "plural": "炸弹",
+    "iconName": "bombClip"
+}

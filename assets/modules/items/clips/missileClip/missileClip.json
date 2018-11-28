@@ -1,0 +1,8 @@
+{
+    "projectile": "missile",
+    "size": 6,
+    "price": 50,
+    "displayName": "导弹夹",
+    "plural": "导弹",
+    "iconName": "missileClip"
+}
